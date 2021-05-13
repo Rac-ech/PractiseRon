@@ -29,3 +29,8 @@ console.log(num1 % 6);
 var num2 = 20;
 num2 += 5;
 console.log(num2);
+
+//Functions
+function fun(){
+    alert("This is a function");
+}
